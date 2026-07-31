@@ -21,4 +21,4 @@ Python · PyTorch · Transformers · LoRA/PEFT · FAISS · FastAPI · vLLM · Do
 
 ### Контакты
 
-[Telegram](https://t.me/anastasles) · [почта](mailto:slesarenko221999@gmail.com) · [резюме](https://drive.google.com/file/d/1l4zLua4a6HSfzQytASzSxmtk_18vzpVH/view?usp=sharing)
+[Telegram](https://t.me/anastasles) · [почта](mailto:slesarenko221999@gmail.com) · [резюме](https://drive.google.com/file/d/1z9l_2riz_kSLOhtBhA_rvo50DTRsB9x8/view?usp=sharing)
